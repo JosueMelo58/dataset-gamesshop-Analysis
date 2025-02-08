@@ -1,4 +1,4 @@
-# 🎮 Relatóriol de Análise de Vendas Meganium  
+# 🎮 Relatório de Análise de Vendas Meganium  
 
 ---
 
@@ -6,7 +6,7 @@
 | **Métrica**               | **Valor**                 |
 |---------------------------|---------------------------|
 | Total de Transações        | 60                        |
-| Países Atendidos          | 8 (Canadá, França, Japão, Alemanha, Austrália, UK, USA) |
+| Países Atendidos          | 7 (Canadá, França, Japão, Alemanha, Austrália, UK, USA) |
 | Marcas Analisadas         | 4 (40XXV, RG35XX, CubeXX, RG353M) |
 | Período Analisado         | Maio a Outubro de 2024    |
 
